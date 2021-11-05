@@ -1,0 +1,39 @@
+.teste {
+    color:blue;
+    background-color: rgb(223, 192, 192);
+    justify-content: center;
+    max-width: 3000px;
+    height: 150px;
+    margin-top: 50px;
+    margin-bottom: 0%;
+    font-size: 100px;
+    font-family:Courier, monospace;
+    
+}
+
+.teste2 {
+    font-size: 100px;
+    color: darkmagenta;
+}
+
+.chico {
+    background-color: rgb(179, 127, 127);
+   
+}
+
+.licor {
+    background-color: deepskyblue;
+    border: 1px solid red;
+}
+
+
+.foto {
+    width: 2050px;
+    height: 550px;
+    border-radius: 10px;
+}
+
+.macaco {
+    display: flex;
+    justify-content: center;
+}
